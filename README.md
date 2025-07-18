@@ -97,7 +97,7 @@ Asegúrate de reemplazar `"YOUR_API_KEY"` por tu clave personal. Puedes obtener 
 ## 👨‍💻 Autor
 
 Desarrollado por **Fernando Ibarra Salinas**  
-🔗 [@nandothedeveloper](https://github.com/nandothedeveloper)
+🔗 [@nandothedeveloper](https://github.com/ferchoibasaldev)
 
 ---
 
